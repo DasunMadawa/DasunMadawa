@@ -21,4 +21,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dasun-madawa&show_icons=true&locale=en" alt="dasun-madawa" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dasun-madawa&" alt="dasun-madawa" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dasun-madawa&" alt="dasun-madawa" /></p> 
